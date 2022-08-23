@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
-- 👨‍💻 Writing `PHP` `SQL` `HTML` `CSS` `JavaScript`.
+- 👨‍💻 Writing `React`,`PHP` `SQL` `HTML` `CSS` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/bhavik-gajera/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/bhavik-gajera/)--> and the **JavaScript community**.
 - 📚 Currently learning about **clean architecture**, **system design**, **design patterns**
 - 🛠️ Working on **microservices**, **micro frontends** and **distributed systems** professionally.
