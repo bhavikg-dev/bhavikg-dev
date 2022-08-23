@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   - **🕹 Frameworks:** • [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) • [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1) • [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard?tabs=net-standard-1-0) • [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) • [Entity Framework](https://docs.microsoft.com/en-us/ef/)
   
 - **🏗️ Code editors:**
-<a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
+<a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25 /></a>
   
 #### What's interesting about me?  
   - 😎 I love to **speak** really good **english**, **discuss new ideas**, and **make clients smile**.
@@ -58,13 +58,16 @@ Here are some ideas to get you started:
 <!--Github Stats-->
 <p float="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bhavikg-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikg-dev&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikg-dev&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
 
 #### What companies have I worked for?
 <p left="center">
-  <a href="https://selise.ch/">
-    <img src="https://selise.ch/wp-content/uploads/2020/11/SELISE-DIgital-Platforms-.png" height=50 />
+  <a href="https://www.elegantthemes.com/">
+    <img src="https://www.elegantthemes.com/images/logo-light.svg" height=50 />
+  </a>
+    <a href="https://elamant.com/">
+    <img src="https://elamant.com/wp-content/uploads/2022/03/E-logo_96x96.png" height=50 />
   </a>
 </p>
 
