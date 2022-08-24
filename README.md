@@ -7,26 +7,26 @@ Here are some ideas to get you started:
 -->
 #### Who I am?
 - A software developer based in **[Ahmedabad](https://en.wikipedia.org/wiki/Ahmedabad), [India](https://en.wikipedia.org/wiki/India).** 
-- Have 9 years of hands-on experience in **software development, tech consultancy,** and **team management.** 
+- Have 9+ years of hands-on experience in **software development, tech consultancy,** and **team management.** 
 - Developed products for **FinTech, Enterprise, and Logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
-- 👨‍💻 Writing `React`,`PHP` `SQL` `HTML` `CSS` `JavaScript`.
+- 👨‍💻 Writing `ReactJS` `VueJS` `PHP` `SQL` `HTML` `CSS` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/bhavik-gajera/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/bhavik-gajera/)--> and the **JavaScript community**.
-- 📚 Currently learning about **clean architecture**, **system design**, **design patterns**
+- 📚 Currently digging deeper in **clean architecture**, **system design**, **design patterns**
 - 🛠️ Working on **microservices**, **micro frontends** and **distributed systems** professionally.
-- 👯 Looking to collaborate on **JavaScript projects**.
+- 👯 Looking to collaborate on **JavaScript/FullStack projects**.
 - 🥰 Building **[React Vite Boiler Plate](https://github.com/bhavikg-dev/react-tsx-vite-arch)** as a hobby.
 
 #### What I like to disscuss about? 
-- 💬 Ask me about `opensource stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `feasibility` and `requirement analysis` `choice of frameworks` and `tech culture`.
+- 💬 Ask me about `opensource stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `clean code` `feasibility` and `requirement analysis`.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 PHP` • `👨‍🏭 SQL` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
-    - **🌐 Web:** • [ReactJS](https://reactjs.org/) • [ReactNative](https://reactnative.dev/) • [VueJS](https://vuejs.org/)  • [Angular](https://angular.io/) 
+    - **🌐 Web:** • [ReactJS](https://reactjs.org/) • [VueJS](https://vuejs.org/)  • [Angular](https://angular.io/) 
     - **📱 Mobile:** • [ReactNative](https://reactnative.dev/)
   - **🗳 UI toolkits:** • [BootStrap](https://getbootstrap.com/) • [Material Design](https://material.io/)
   - **📋 Reporting toolkits:** • [ClickUp](https://clickup.com/)
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards)
   - **🗂 CI/CD:** • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/) • [Vercel](https://vercel.com/)
 - 🧙‍♂️ **Coding pattern & principles:**
-  - **⚒ Patterns:**  • [Mediator](https://en.wikipedia.org/wiki/Mediator_pattern) • [Bridge](https://en.wikipedia.org/wiki/Bridge_pattern) • [CQRS](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation#Command_Query_Responsibility_Separation) • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [SAGA](https://microservices.io/patterns/data/saga.html) • [Event Sourcing](https://microservices.io/patterns/data/event-sourcing.html) • [Message Queuing](https://www.cloudamqp.com/blog/what-is-message-queuing.html)
+  - **⚒ Patterns:**  • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
   
 - **🏗️ Code editors:**
