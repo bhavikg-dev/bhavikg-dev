@@ -54,11 +54,22 @@ Here are some ideas to get you started:
   - ✍️ I write about **why a certain code is written instead of what** in the comments.
   - ⏱️ I'm a **workaholic** and drink a lot of ☕ **water**.
   - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **JavaScript** ecosystem.
+
+#### Projects I have worked upon.
+- 🖥 **Websites:** 
+   - **📋 Wordpress/HTML/CSS/JavaScript:** • [Curapatient](https://curapatient.com/) • [Clarity Security](https://claritysecurity.io/) • [Othena](https://othena.com/)
+- 🗄️ **Portals:**
+  - **💾 React JS:** • [MagicTask](https://magictask.io/) • [BharatCET](https://portal.bharatcet.com/) • [JP Blinds](https://jpblinds.vercel.app/)
+- 🗄️ **Mobile Apps:**
+  - **💾 React Native:** • [BharatCET](https://play.google.com/store/apps/details?id=com.bharatcet) • [Glocon Live](https://play.google.com/store/apps/details?id=com.gloconlive)
+
+
 <!--Github Stats-->
 <p float="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bhavikg-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikg-dev&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
+
 
 #### What companies have I worked for?
 <p left="center">
@@ -78,15 +89,6 @@ Here are some ideas to get you started:
     <img src="https://www.onexpand.co.uk/wp-content/uploads/2022/08/Screen-Shot-2018-01-05-at-16.09.42-1.png" height=50 />
   </a>
 </p>
-
-
-#### Projects I have worked upon.
-- 🖥 **Websites:** 
-   - **📋 Wordpress/HTML/CSS/JavaScript:** • [Curapatient](https://curapatient.com/) • [Clarity Security](https://claritysecurity.io/) • [Othena](https://othena.com/)
-- 🗄️ **Portals:**
-  - **💾 React JS:** • [MagicTask](https://magictask.io/) • [BharatCET](https://portal.bharatcet.com/) • [JP Blinds](https://jpblinds.vercel.app/)
-- 🗄️ **Mobile Apps:**
-  - **💾 React Native:** • [BharatCET](https://play.google.com/store/apps/details?id=com.bharatcet) • [Glocon Live](https://play.google.com/store/apps/details?id=com.gloconlive)
 
 
 #### How to get in touch with me?
