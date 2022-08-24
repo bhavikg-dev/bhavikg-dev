@@ -79,6 +79,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+#### Projects I have worked upon.  
+  - <a href="https://www.linkedin.com/in/bhavik-gajera/">LinkedIn</a>.
+
+
 #### How to get in touch with me?
 <p left="center">
 <a href="https://www.linkedin.com/in/bhavik-gajera/">
@@ -88,7 +93,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
-
 
 <!--
 **bhavikg-dev/bhavikg-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
