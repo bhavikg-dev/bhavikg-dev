@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 PHP` • `👨‍🏭 SQL` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
-    - **🌐 Web:** • [Blazor WASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) • [Uno WASM](https://platform.uno/uno-platform-for-web-webassembly/) • [Open Silver](https://opensilver.net/) • [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
+    - **🌐 Web:** • [ReactJS](https://reactjs.org/) • [ReactNative](https://reactnative.dev/) • [VueJS](https://vuejs.org/)  • [Angular](https://angular.io/) 
     - **📱 Mobile:** • [ReactNative](https://reactnative.dev/)
   - **🗳 UI toolkits:** • [BootStrap](https://getbootstrap.com/) • [Material Design](https://material.io/)
   - **📋 Reporting toolkits:** • [ClickUp](https://clickup.com/)
