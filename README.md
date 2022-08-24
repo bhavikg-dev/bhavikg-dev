@@ -1,4 +1,4 @@
-### Hi there 👋!
+### Hi 👋 I am full stack software engineer from Ahmedabad, India
 
 <!--
 **bhavikg-dev/bhavikg-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,13 +26,12 @@ Here are some ideas to get you started:
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 PHP` • `👨‍🏭 SQL` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
-    - **🖥 Desktop:** • [Uno Platform](https://platform.uno/) • [WinUI 3](https://docs.microsoft.com/en-us/windows/apps/winui/) • [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-6.0) 
     - **🌐 Web:** • [Blazor WASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) • [Uno WASM](https://platform.uno/uno-platform-for-web-webassembly/) • [Open Silver](https://opensilver.net/) • [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
-    - **📱 Mobile:** • [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) • [.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) • [Uno Platform](https://platform.uno/uno-platform-for-ios-and-android/)
-  - **🗳 UI toolkits:** • [Telerik](https://www.telerik.com/) • [Dev Express](https://www.devexpress.com/) • [MudBlazor](https://mudblazor.com/)
-  - **📋 Reporting toolkits:** • [RDLC](https://docs.fileformat.com/reporting/rdlc/#:~:text=(.rdlc)%20Files-,What%20is%20an%20RDLC%20file%3F,used%20to%20create%20these%20files.) • [Dev Express Xtra Reporting](https://docs.devexpress.com/XtraReports/2162/reporting) • [Telerik Reporting](https://www.telerik.com/products/reporting.aspx)
+    - **📱 Mobile:** • [ReactNative](https://reactnative.dev/)
+  - **🗳 UI toolkits:** • [BootStrap](https://getbootstrap.com/) • [Material Design](https://material.io/)
+  - **📋 Reporting toolkits:** • [ClickUp](https://clickup.com/)
 - 🗄️ **Back-end:**
-  - **📜 Languages:** • `🧙🏻‍♂️ PHP`
+  - **📜 Languages:** • `🧙🏻‍♂️ PHP` • `🧙🏻‍♂️ Go`
   - **🔭 Frameworks:** • [Laravel](https://laravel.com/) • [CodeIgniter](https://codeigniter.com/)
   - **💾 Databases:** • [MySQL](https://www.mysql.com/) • [SQLite](https://www.sqlite.org/index.html)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
