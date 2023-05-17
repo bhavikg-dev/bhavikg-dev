@@ -83,7 +83,7 @@ Here are some ideas to get you started:
     <img src="https://imaginovation.net/img/Imaginovation-Logo.svg" height=50 />
   </a>
   <a href="https://www.iima.ac.in/">
-    <img src="https://www.iima.ac.in/assets/images/logo-with-name-new.png" height=50 />
+    <img src="https://www.iima.ac.in/themes/iima/images/logo.svg" height=50 />
   </a>
   <a href="https://www.onexpand.co.uk/">
     <img src="https://www.onexpand.co.uk/wp-content/uploads/2022/08/Screen-Shot-2018-01-05-at-16.09.42-1.png" height=50 />
