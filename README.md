@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - 🖥 **Websites:** 
    - **📋 Wordpress/HTML/CSS/JavaScript:** • [Curapatient](https://curapatient.com/) • [Clarity Security](https://claritysecurity.io/) • [Othena](https://othena.com/)
 - 🗄️ **Portals:**
-  - **💾 React JS:** • [MagicTask](https://magictask.io/) • [BharatCET](https://portal.bharatcet.com/) • [JP Blinds](https://jpblinds.vercel.app/)
+  - **💾 React JS:** • [MagicTask](https://magictask.io/) • [BharatCET](https://portal.bharatcet.com/) • [JP Blinds](https://portal.jpblinds.com.au/) • [DocDirekt](https://start.docdirekt.de/login)
 - 🗄️ **Mobile Apps:**
   - **💾 React Native:** • [BharatCET](https://play.google.com/store/apps/details?id=com.bharatcet) • [Glocon Live](https://play.google.com/store/apps/details?id=com.gloconlive)
 
