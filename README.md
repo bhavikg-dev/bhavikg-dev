@@ -85,9 +85,6 @@ Here are some ideas to get you started:
   <a href="https://www.iima.ac.in/">
     <img src="https://www.iima.ac.in/themes/iima/images/logo.svg" height=50 />
   </a>
-  <a href="https://www.onexpand.co.uk/">
-    <img src="https://www.onexpand.co.uk/wp-content/uploads/2022/08/Screen-Shot-2018-01-05-at-16.09.42-1.png" height=50 />
-  </a>
 </p>
 
 
@@ -103,3 +100,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikg-dev&hide=html)
 ![yasuaki640's github stats](https://github-readme-stats.vercel.app/api?username=bhavikg-dev&show_icons=true&count_private=true&line_height=40)
+
+![https://komarev.com/ghpvc/?username=bhavikg-dev&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=bhavikg-dev&label=Profile%20views&color=0e75b6&style=fla)
