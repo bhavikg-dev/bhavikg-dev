@@ -64,20 +64,10 @@ Here are some ideas to get you started:
   - **💾 React Native:** • [BharatCET](https://play.google.com/store/apps/details?id=com.bharatcet) • [Glocon Live](https://play.google.com/store/apps/details?id=com.gloconlive)
 
 
-<!--Github Stats-->
-<p float="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=bhavikg-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikg-dev&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
-</p>
-
-
 #### What companies have I worked for?
 <p left="center">
   <a href="https://www.elegantthemes.com/">
     <img src="https://www.elegantthemes.com/images/logo-light.svg" height=50 />
-  </a>
-  <a href="https://elamant.com/">
-    <img src="https://elamant.com/wp-content/uploads/2022/03/E-logo_96x96.png" height=50 />
   </a>
   <a href="https://imaginovation.net/">
     <img src="https://imaginovation.net/img/Imaginovation-Logo.svg" height=50 />
@@ -98,7 +88,9 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikg-dev&hide=html)
-![yasuaki640's github stats](https://github-readme-stats.vercel.app/api?username=bhavikg-dev&show_icons=true&count_private=true&line_height=40)
+<!--Github Stats-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikg-dev&hide=html&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=bhavikg-dev&show_icons=true&count_private=true&line_height=40)
 
 ![https://komarev.com/ghpvc/?username=bhavikg-dev&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=bhavikg-dev&label=Profile%20views&color=0e75b6&style=fla)
