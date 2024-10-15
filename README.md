@@ -7,24 +7,23 @@ Here are some ideas to get you started:
 -->
 #### Who I am?
 - A software developer based in **[Ahmedabad](https://en.wikipedia.org/wiki/Ahmedabad), [India](https://en.wikipedia.org/wiki/India).** 
-- Have 9+ years of hands-on experience in **software development, tech consultancy,** and **team management.** 
+- Have 10+ years of hands-on experience in **software development, tech consultancy,** and **team management.** 
 - Developed products for **FinTech, Enterprise, and Logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
-- 👨‍💻 Writing `ReactJS` `VueJS` `PHP` `SQL` `HTML` `CSS` `JavaScript`.
+- 👨‍💻 Writing `ReactJS` `ReactNative` `JavaScript` `TypeScript` `PHP` `SQL` `MySQL` `PostgreSQL` `HTML` `CSS`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/bhavik-gajera/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/bhavik-gajera/)--> and the **JavaScript community**.
 - 📚 Currently digging deeper in **clean architecture**, **system design**, **design patterns**
 - 🛠️ Working on **microservices**, **micro frontends** and **distributed systems** professionally.
 - 👯 Looking to collaborate on **JavaScript/FullStack projects**.
-- 🥰 Building **[React Vite Boiler Plate](https://github.com/bhavikg-dev/react-tsx-vite-arch)** as a hobby.
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `opensource stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `clean code` `feasibility` and `requirement analysis`.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
-  - **📜 Languages:** • `🧙🏻 PHP` • `👨‍🏭 SQL` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
+  - **📜 Languages:** • `🧙🏻 PHP` • `👨‍🏭 SQL` • `👨‍🔧 JavaScript` • `👨‍🔧 TypeScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
     - **🌐 Web:** • [ReactJS](https://reactjs.org/) • [VueJS](https://vuejs.org/)  • [Angular](https://angular.io/) 
     - **📱 Mobile:** • [ReactNative](https://reactnative.dev/)
