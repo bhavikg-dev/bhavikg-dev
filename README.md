@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 -->
 #### Who I am?
 - A software developer based in **[Ahmedabad](https://en.wikipedia.org/wiki/Ahmedabad), [India](https://en.wikipedia.org/wiki/India).** 
-- Have 10+ years of hands-on experience in **software development, tech consultancy,** and **team management.** 
+- Have 11+ years of hands-on experience in **software development, tech consultancy,** and **team management.** 
 - Developed products for **FinTech, Enterprise, and Logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
-- 👨‍💻 Writing `ReactJS` `ReactNative` `JavaScript` `TypeScript` `PHP` `SQL` `MySQL` `PostgreSQL` `HTML` `CSS`.
+- 👨‍💻 Writing `ReactJS` `ReactNative` `NodeJS` `JavaScript` `TypeScript` `PHP` `Laravel` `SQL` `MySQL` `PostgreSQL` `HTML` `CSS`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/bhavik-gajera/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/bhavik-gajera/)--> and the **JavaScript community**.
 - 📚 Currently digging deeper in **clean architecture**, **system design**, **design patterns**
 - 🛠️ Working on **microservices**, **micro frontends** and **distributed systems** professionally.
@@ -57,25 +57,6 @@ Here are some ideas to get you started:
 #### Projects I have worked upon.
 - 🖥 **Websites:** 
    - **📋 Wordpress/HTML/CSS/JavaScript:** • [Curapatient](https://curapatient.com/) • [Clarity Security](https://claritysecurity.io/) • [Othena](https://othena.com/)
-- 🗄️ **Portals:**
-  - **💾 React JS:** • [MagicTask](https://magictask.io/) • [BharatCET](https://portal.bharatcet.com/) • [JP Blinds](https://portal.jpblinds.com.au/) • [DocDirekt](https://start.docdirekt.de/login)
-- 🗄️ **Mobile Apps:**
-  - **💾 React Native:** • [BharatCET](https://play.google.com/store/apps/details?id=com.bharatcet) • [Glocon Live](https://play.google.com/store/apps/details?id=com.gloconlive)
-
-
-#### What companies have I worked for?
-<p left="center">
-  <a href="https://www.elegantthemes.com/">
-    <img src="https://www.elegantthemes.com/images/logo-light.svg" height=50 />
-  </a>
-  <a href="https://imaginovation.net/">
-    <img src="https://imaginovation.net/img/Imaginovation-Logo.svg" height=50 />
-  </a>
-  <a href="https://www.iima.ac.in/">
-    <img src="https://www.iima.ac.in/themes/iima/images/logo.svg" height=50 />
-  </a>
-</p>
-
 
 #### How to get in touch with me?
 <p left="center">
@@ -88,8 +69,4 @@ Here are some ideas to get you started:
 </p>
 
 <!--Github Stats-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikg-dev&hide=html&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=bhavikg-dev&show_icons=true&count_private=true&line_height=40)
-
 ![https://komarev.com/ghpvc/?username=bhavikg-dev&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=bhavikg-dev&label=Profile%20views&color=0e75b6&style=fla)
